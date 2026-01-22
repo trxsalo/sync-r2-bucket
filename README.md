@@ -102,7 +102,7 @@ npx tsc
 node dist/services/sync-bucket.service.js
 ```
 
-### Opción 2 — Ejecutar con ts-node & node
+### Opción 2 — Compilar y ejecutar
 
 ```bash
 npm run sync:bucket
