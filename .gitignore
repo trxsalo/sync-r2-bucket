@@ -1,0 +1,13 @@
+node_modules
+
+dist
+
+bucket_backup
+
+.env
+
+.env.production
+
+.env.local
+
+
